@@ -1,2 +1,2 @@
 # Atestados
-Um portal voltado para administração de atestados de empresas.
+Um portal voltado para administração de atestados em empresas.
